@@ -1,0 +1,15 @@
+ADB_Blood	ADB_Blood.bqmpu.call
+ADB_LL	ADB_LL.bqmpu.call
+ADB_LM	ADB_LM.bqmpu.call
+ADB_UL	ADB_UL.bqmpu.call
+ADB_UM	ADB_UM.bqmpu.call
+LMS_Blood	LMS_Blood.bqmpu.call
+LMS_LN_3R1	LMS_LN_3R1.bqmpu.call
+LMS_LN_3L1	LMS_LN_3L1.bqmpu.call
+LMS_Cancer	LMS_Cancer.bqmpu.call
+LMS_Recur	LMS_Recur.bqmpu.call
+SJH_Blood	SJH_Blood.bqmpu.call
+SJH_LN	SJH_LN.bqmpu.call
+SJH_Isth	SJH_Isth.bqmpu.call
+SJH_Cen1	SJH_Cen1.bqmpu.call
+SJH_Lat	SJH_Lat.bqmpu.call

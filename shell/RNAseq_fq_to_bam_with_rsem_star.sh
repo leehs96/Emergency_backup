@@ -1,0 +1,1 @@
+rsem-calculate-expression -p 8 --paired-end --star --star-path  ~/anaconda3/pkgs/star-2.7.6a-0/bin --estimate-rspd --append-names --output-genome-bam ~/cancer/RNA_hg37/ADB_LL_RNA_tr_1.fastq ~/cancer/RNA_hg37/ADB_LL_RNA_tr_2.fastq ~/ref/hg37/human_g1k_v37.fasta ~/cancer/RNA_hg37/bam

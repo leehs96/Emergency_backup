@@ -1,0 +1,16 @@
+ADB_Blood	~/cancer/WGS_hg37/ADB_Blood.s.md.br.bam
+ADB_LL	~/cancer/WGS_hg37/ADB_LL.s.md.br.bam
+ADB_LM	~/cancer/WGS_hg37/ADB_LM.s.md.br.bam
+ADB_UL	~/cancer/WGS_hg37/ADB_UL.s.md.br.bam
+ADB_UM	~/cancer/WGS_hg37/ADB_UM.s.md.br.bam
+LMS_Blood	~/cancer/WGS_hg37/LMS_Blood.s.md.br.bam
+LMS_LN_3R1	~/cancer/WGS_hg37/LMS_LN_3R1.s.md.br.bam
+LMS_LN_3L1	~/cancer/WGS_hg37/LMS_LN_3L1.s.md.br.bam
+LMS_Cancer	~/cancer/WGS_hg37/LMS_Cancer.s.md.br.bam
+LMS_Recur	~/cancer/WGS_hg37/LMS_Recur.s.md.br.bam
+SJH_Blood	~/cancer/WGS_hg37/SJH_Blood.s.md.br.bam
+SJH_LN	~/cancer/WGS_hg37/SJH_LN.s.md.br.bam
+SJH_Isth	~/cancer/WGS_hg37/SJH_Isth.s.md.br.bam
+SJH_Cen1	~/cancer/WGS_hg37/SJH_Cen1.s.md.br.bam
+SJH_Lat	~/cancer/WGS_hg37/SJH_Lat.s.md.br.bam
+
